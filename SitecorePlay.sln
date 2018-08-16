@@ -21,6 +21,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic", "Basic", "{6C8E7CE9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScHelix.Foundation.MultiTenant", "Foundation\MultiTenant\code\ScHelix.Foundation.MultiTenant.csproj", "{BE1B120F-DDA1-4843-96F8-E23730A881C5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{CF0DB3D4-AB9E-499B-8F52-435381B1C570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecorePlay.Common", "Common\code\SitecorePlay.Common.csproj", "{3DAD2D09-F154-4346-ADBC-2686D12B557F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,10 @@ Global
 		{BE1B120F-DDA1-4843-96F8-E23730A881C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE1B120F-DDA1-4843-96F8-E23730A881C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE1B120F-DDA1-4843-96F8-E23730A881C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DAD2D09-F154-4346-ADBC-2686D12B557F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DAD2D09-F154-4346-ADBC-2686D12B557F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DAD2D09-F154-4346-ADBC-2686D12B557F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DAD2D09-F154-4346-ADBC-2686D12B557F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,5 +56,6 @@ Global
 		{6F44B078-B985-40A4-A438-E94CB9C526FF} = {9EB8DB33-554C-461B-9801-290EEA247E3F}
 		{2F88B26A-28D0-4323-AE80-3FE5DD1F43DC} = {00A046A6-C767-4227-9702-709AB956EF35}
 		{BE1B120F-DDA1-4843-96F8-E23730A881C5} = {6B9AE32F-5662-4C9B-A155-F835490FD1C6}
+		{3DAD2D09-F154-4346-ADBC-2686D12B557F} = {CF0DB3D4-AB9E-499B-8F52-435381B1C570}
 	EndGlobalSection
 EndGlobal
