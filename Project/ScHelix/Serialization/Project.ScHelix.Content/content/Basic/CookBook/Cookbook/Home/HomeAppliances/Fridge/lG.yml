@@ -1,0 +1,17 @@
+﻿---
+ID: "13b03652-2b8c-4990-a91b-bd50319ce4bc"
+Parent: "f76c95ab-b5ba-4d1e-a461-94717235994c"
+Template: "0638c7b6-ff71-464c-8d5a-87b88cee1852"
+Path: /sitecore/content/Basic/CookBook/Cookbook/Home/HomeAppliances/Fridge/lG
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180606T122718Z
+    - ID: "e5ab5650-5e2a-48e9-b65d-3c3a946bc9b2"
+      Hint: Title
+      Value: lG

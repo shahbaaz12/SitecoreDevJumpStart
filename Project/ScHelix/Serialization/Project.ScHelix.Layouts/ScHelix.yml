@@ -1,0 +1,14 @@
+﻿---
+ID: "e2ad8f29-f0bf-4c94-afb9-d3ed8eb6cb17"
+Parent: "41fe562b-9637-4c23-9419-c6fe83bb3ff7"
+Template: "93227c5d-4fef-474d-94c0-f252ec8e8219"
+Path: /sitecore/layout/Layouts/Helix Arch/Project/ScHelix
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180806T131551Z

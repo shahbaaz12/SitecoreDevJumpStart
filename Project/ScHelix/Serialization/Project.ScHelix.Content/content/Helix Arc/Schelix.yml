@@ -1,0 +1,14 @@
+﻿---
+ID: "7447e044-4efe-494d-9cc1-19475a6c9d03"
+Parent: "b1cf79f3-fe8f-47e0-8329-89795843f818"
+Template: "af794f7f-9ebb-4377-9f19-94b25eabd261"
+Path: /sitecore/content/Helix Arc/Schelix
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180816T060624Z

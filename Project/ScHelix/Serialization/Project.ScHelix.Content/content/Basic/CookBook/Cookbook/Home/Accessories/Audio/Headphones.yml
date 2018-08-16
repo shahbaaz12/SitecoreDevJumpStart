@@ -1,0 +1,17 @@
+﻿---
+ID: "ca9110d9-5946-4a4f-8cda-2ab75ad86b11"
+Parent: "eee630f1-0ab0-4169-bad5-55a05e43c9a0"
+Template: "0638c7b6-ff71-464c-8d5a-87b88cee1852"
+Path: /sitecore/content/Basic/CookBook/Cookbook/Home/Accessories/Audio/Headphones
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180604T112504Z
+    - ID: "e5ab5650-5e2a-48e9-b65d-3c3a946bc9b2"
+      Hint: Title
+      Value: Headphones

@@ -1,0 +1,25 @@
+﻿---
+ID: "bd2badbf-a571-4ee1-9cbb-de046715e80e"
+Parent: "937d381d-5eb9-4cba-b059-4470a1ecd55a"
+Template: "fd8130be-6a90-43c5-a115-8ad9e56e783b"
+Path: /sitecore/content/Helix Arc/Schelix/Scdev/Home/Content Folder
+DB: master
+BranchID: "92477738-8075-43ee-9c6a-2a9e338dacab"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {E6280E78-E8B5-4BF5-81F1-84BFE46E7E85}
+    {3ECBCB99-2AFD-47EE-9E46-F20FB133F601}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{14B360F2-44BE-4B27-855B-DF01D2BFEC62}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180326T075809Z

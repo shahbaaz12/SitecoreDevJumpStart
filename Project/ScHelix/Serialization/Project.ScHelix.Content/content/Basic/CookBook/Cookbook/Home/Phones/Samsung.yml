@@ -1,0 +1,17 @@
+﻿---
+ID: "dd29b900-0e7b-41f9-acb6-3b2919ae440c"
+Parent: "e4b737a3-43b8-4ec2-8bb9-317f64d5ee82"
+Template: "1f8b043a-1255-483c-9490-f7c13c37ae6f"
+Path: /sitecore/content/Basic/CookBook/Cookbook/Home/Phones/Samsung
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180606T122342Z
+    - ID: "e5ab5650-5e2a-48e9-b65d-3c3a946bc9b2"
+      Hint: Title
+      Value: Samsung

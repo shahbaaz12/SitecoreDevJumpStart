@@ -1,0 +1,18 @@
+﻿---
+ID: "49a588d2-d435-40f2-877f-5e603ffb117e"
+Parent: "3dee50d0-8610-4c66-83c2-e37830f4d1f9"
+Template: "3dee50d0-8610-4c66-83c2-e37830f4d1f9"
+Path: /sitecore/templates/Helix Arch/Foundation/MultiTenant/Folder Templates/Site Node/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180326T074621Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

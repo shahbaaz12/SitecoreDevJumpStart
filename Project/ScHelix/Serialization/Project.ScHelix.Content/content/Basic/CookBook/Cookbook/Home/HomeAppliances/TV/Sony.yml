@@ -1,0 +1,17 @@
+﻿---
+ID: "5cb4ffd1-6152-4c63-863f-bbee68fec7f9"
+Parent: "b7e993bf-8609-41f3-85a6-4eac8159682c"
+Template: "0638c7b6-ff71-464c-8d5a-87b88cee1852"
+Path: /sitecore/content/Basic/CookBook/Cookbook/Home/HomeAppliances/TV/Sony
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180606T122657Z
+    - ID: "e5ab5650-5e2a-48e9-b65d-3c3a946bc9b2"
+      Hint: Title
+      Value: Sony

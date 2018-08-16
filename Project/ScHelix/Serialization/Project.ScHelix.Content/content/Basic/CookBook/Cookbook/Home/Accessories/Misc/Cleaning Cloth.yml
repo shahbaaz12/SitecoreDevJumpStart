@@ -1,0 +1,17 @@
+﻿---
+ID: "e35cf074-d59a-4b6b-8505-1e3b81e58767"
+Parent: "d1a1cd58-401d-4fa6-81a3-16db9061ce34"
+Template: "0638c7b6-ff71-464c-8d5a-87b88cee1852"
+Path: /sitecore/content/Basic/CookBook/Cookbook/Home/Accessories/Misc/Cleaning Cloth
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180606T122206Z
+    - ID: "e5ab5650-5e2a-48e9-b65d-3c3a946bc9b2"
+      Hint: Title
+      Value: Cleaning Cloth

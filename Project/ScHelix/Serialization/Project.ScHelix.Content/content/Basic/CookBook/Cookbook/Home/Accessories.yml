@@ -1,0 +1,17 @@
+﻿---
+ID: "0b9ee0c6-e704-4045-ae74-407a660df120"
+Parent: "2111812a-1418-42b6-9892-ab86a1312c46"
+Template: "e26d0094-0915-45fe-bea9-34876cab4d2d"
+Path: /sitecore/content/Basic/CookBook/Cookbook/Home/Accessories
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180604T112440Z
+    - ID: "e5ab5650-5e2a-48e9-b65d-3c3a946bc9b2"
+      Hint: Title
+      Value: Accessories

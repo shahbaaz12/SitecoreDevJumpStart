@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configuration", "{56E1A636-B5EF-474D-B400-A1309255A6B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{00A046A6-C767-4227-9702-709AB956EF35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{9573B1F7-38E6-49F5-AAE6-B67C04F3539B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{6B9AE32F-5662-4C9B-A155-F835490FD1C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{9EB8DB33-554C-461B-9801-290EEA247E3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScHelix.Foundation.Serialization", "Foundation\Serialization\code\ScHelix.Foundation.Serialization.csproj", "{6F44B078-B985-40A4-A438-E94CB9C526FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScHelix.Project.Website", "Project\ScHelix\code\ScHelix.Project.Website.csproj", "{2F88B26A-28D0-4323-AE80-3FE5DD1F43DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic", "Basic", "{6C8E7CE9-F039-40C8-B9C6-C1324C28C64E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScHelix.Foundation.MultiTenant", "Foundation\MultiTenant\code\ScHelix.Foundation.MultiTenant.csproj", "{BE1B120F-DDA1-4843-96F8-E23730A881C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F44B078-B985-40A4-A438-E94CB9C526FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F44B078-B985-40A4-A438-E94CB9C526FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F44B078-B985-40A4-A438-E94CB9C526FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F44B078-B985-40A4-A438-E94CB9C526FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F88B26A-28D0-4323-AE80-3FE5DD1F43DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F88B26A-28D0-4323-AE80-3FE5DD1F43DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F88B26A-28D0-4323-AE80-3FE5DD1F43DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F88B26A-28D0-4323-AE80-3FE5DD1F43DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1B120F-DDA1-4843-96F8-E23730A881C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1B120F-DDA1-4843-96F8-E23730A881C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1B120F-DDA1-4843-96F8-E23730A881C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1B120F-DDA1-4843-96F8-E23730A881C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9EB8DB33-554C-461B-9801-290EEA247E3F} = {6B9AE32F-5662-4C9B-A155-F835490FD1C6}
+		{6F44B078-B985-40A4-A438-E94CB9C526FF} = {9EB8DB33-554C-461B-9801-290EEA247E3F}
+		{2F88B26A-28D0-4323-AE80-3FE5DD1F43DC} = {00A046A6-C767-4227-9702-709AB956EF35}
+		{BE1B120F-DDA1-4843-96F8-E23730A881C5} = {6B9AE32F-5662-4C9B-A155-F835490FD1C6}
+	EndGlobalSection
+EndGlobal

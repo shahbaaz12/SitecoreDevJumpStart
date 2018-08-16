@@ -1,0 +1,18 @@
+﻿---
+ID: "41fe562b-9637-4c23-9419-c6fe83bb3ff7"
+Parent: "dbefd097-c9e2-4600-afc2-6651719b3a50"
+Template: "93227c5d-4fef-474d-94c0-f252ec8e8219"
+Path: /sitecore/layout/Layouts/Helix Arch/Project
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/folder_window.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180806T125851Z

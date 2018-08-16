@@ -1,0 +1,17 @@
+﻿---
+ID: "6f862c2f-6c7f-4f2c-931e-03c993c9c4b1"
+Parent: "9af8a0db-cfa0-499b-902b-20635382c254"
+Template: "0638c7b6-ff71-464c-8d5a-87b88cee1852"
+Path: /sitecore/content/Basic/CookBook/Cookbook/Home/Phones/Iphone/Iphone 7
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180606T122436Z
+    - ID: "e5ab5650-5e2a-48e9-b65d-3c3a946bc9b2"
+      Hint: Title
+      Value: Iphone 7

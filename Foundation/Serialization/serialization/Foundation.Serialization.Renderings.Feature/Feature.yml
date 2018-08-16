@@ -1,0 +1,18 @@
+﻿---
+ID: "f6f7e1b3-588e-4212-98c7-746f99490244"
+Parent: "14b6e372-c147-43d9-8021-68509843bde7"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Helix Arch/Feature
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/folder_cubes.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180806T125756Z

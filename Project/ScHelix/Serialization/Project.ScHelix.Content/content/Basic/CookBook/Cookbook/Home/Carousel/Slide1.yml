@@ -1,0 +1,21 @@
+﻿---
+ID: "00cd9f04-b895-413e-ab47-33c0f530c93b"
+Parent: "4b61c0e5-657f-4ab9-823e-7c55bd211376"
+Template: "cd74ea44-a274-41be-bd36-d43ee3f21766"
+Path: /sitecore/content/Basic/CookBook/Cookbook/Home/Carousel/Slide1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180605T080524Z
+    - ID: "4be8fb9e-2cd8-4e5e-9ab5-9f882152feee"
+      Hint: Title
+      Value: Slide1
+    - ID: "953af9af-da70-4981-ae06-2804f659fba7"
+      Hint: Image
+      Value: |
+        <image mediapath="/Default Website/cover" alt="" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/Default Website/cover" mediaid="{8D970D8E-8D3A-4CA9-A2F5-E370A8AC8E27}" />
