@@ -1,0 +1,17 @@
+﻿---
+ID: "ad1c5ed1-6354-4ab6-801f-ccfd731c244c"
+Parent: "f68812f1-f5a2-4641-847c-cdb9aceab3ad"
+Template: "bf87a996-1191-4d2e-a45d-e7d04667e9a6"
+Path: /sitecore/content/Helix Arc/Schelix/Scdev/Home/Blog/Article1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180816T133346Z
+    - ID: "eb8e72f6-2fb2-46bf-97b0-327c44db709a"
+      Hint: ArticleTitle
+      Value: Article1

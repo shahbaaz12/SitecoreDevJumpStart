@@ -1,0 +1,14 @@
+﻿---
+ID: "5dc1735c-ae0a-4d85-8c16-26d204867c02"
+Parent: "f6f7e1b3-588e-4212-98c7-746f99490244"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Helix Arch/Feature/Blog
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180816T093802Z

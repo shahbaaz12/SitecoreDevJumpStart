@@ -15,12 +15,15 @@ D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\ScHelix.Project.Website.dll
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\ScHelix.Project.Website.pdb
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\Microsoft.Web.Infrastructure.dll
+D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\Sitecore.Kernel.dll
+D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\Sitecore.Mvc.dll
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\System.Web.Helpers.dll
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\System.Web.Mvc.dll
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\System.Web.Razor.dll
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\System.Web.Webpages.Deployment.dll
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\System.Web.Webpages.dll
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\System.Web.Webpages.Razor.dll
+D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\Newtonsoft.Json.dll
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\System.Web.Razor.xml
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\System.Web.Webpages.xml
@@ -28,6 +31,6 @@ D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\System.Web.Webpages.Deploym
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\System.Web.Webpages.Razor.xml
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\System.Web.Helpers.xml
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\bin\System.Web.Mvc.xml
-D:\VS-Projects\SitecorePlay\Project\ScHelix\code\obj\Debug\ScHelix.Project.Website.csprojResolveAssemblyReference.cache
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\obj\Debug\ScHelix.Project.Website.dll
 D:\VS-Projects\SitecorePlay\Project\ScHelix\code\obj\Debug\ScHelix.Project.Website.pdb
+D:\VS-Projects\SitecorePlay\Project\ScHelix\code\obj\Debug\ScHelix.Project.Website.csprojResolveAssemblyReference.cache

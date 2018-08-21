@@ -1,0 +1,31 @@
+﻿---
+ID: "bf87a996-1191-4d2e-a45d-e7d04667e9a6"
+Parent: "c7cff744-5259-4e0c-bef6-4e83c25db196"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Helix Arch/Project/ScHelix/PageTypeTemplates/Article
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/32x32/document_orientation_landscape.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {5BB7E210-22AE-4C1F-9738-034FEB4A0893}
+    {072E6E92-0CFF-47E7-8C7A-73D90CE3676F}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{4157AC21-49E2-4C52-877E-FD3FCA282462}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180816T133046Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

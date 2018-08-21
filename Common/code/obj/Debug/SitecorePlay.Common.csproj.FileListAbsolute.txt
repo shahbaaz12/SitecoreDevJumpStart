@@ -28,6 +28,6 @@ D:\VS-Projects\SitecorePlay\Common\code\bin\System.Web.Webpages.Deployment.xml
 D:\VS-Projects\SitecorePlay\Common\code\bin\System.Web.Webpages.Razor.xml
 D:\VS-Projects\SitecorePlay\Common\code\bin\System.Web.Helpers.xml
 D:\VS-Projects\SitecorePlay\Common\code\bin\System.Web.Mvc.xml
-D:\VS-Projects\SitecorePlay\Common\code\obj\Debug\SitecorePlay.Common.csprojResolveAssemblyReference.cache
 D:\VS-Projects\SitecorePlay\Common\code\obj\Debug\SitecorePlay.Common.dll
 D:\VS-Projects\SitecorePlay\Common\code\obj\Debug\SitecorePlay.Common.pdb
+D:\VS-Projects\SitecorePlay\Common\code\obj\Debug\SitecorePlay.Common.csprojResolveAssemblyReference.cache

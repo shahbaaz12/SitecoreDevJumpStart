@@ -1,33 +1,9 @@
 ﻿---
-ID: "937d381d-5eb9-4cba-b059-4470a1ecd55a"
+ID: "42d32553-6f4e-46b3-b970-eaa82b2cfab4"
 Parent: "88bb225e-190a-481f-b5e6-9441a419a5df"
-Template: "e6280e78-e8b5-4bf5-81f1-84bfe46e7e85"
+Template: "99be8c60-6906-419a-a24d-278c5fcebf37"
 Path: /sitecore/content/Helix Arc/Schelix/Scdev/Home
 DB: master
-BranchID: "92477738-8075-43ee-9c6a-2a9e338dacab"
-SharedFields:
-- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
-  Hint: __Icon
-  Value: apps/32x32/home.png
-- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
-  Hint: __Renderings
-  Type: layout
-  Value: |
-    <r xmlns:p="p" xmlns:s="s"
-      p:p="1">
-      <d
-        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-        <r
-          uid="{1D9B307D-4AA2-4D81-BB14-E0DC5D2A6FA2}"
-          s:ds="{5911CC8B-703C-4A24-B5B9-3957028B77E3}"
-          s:id="{27B9C11F-A982-479F-8D57-9715DA89D029}"
-          s:par=""
-          s:ph="main" />
-      </d>
-    </r>
-- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
-  Hint: __Originator
-  Value: "{E0E84618-FE4E-4859-BDBA-76DF225B9B22}"
 Languages:
 - Language: en
   Versions:
@@ -35,4 +11,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20180326T075809Z
+      Value: 20180816T112201Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -30,3 +30,4 @@ D:\VS-Projects\SitecorePlay\Foundation\MultiTenant\code\bin\System.Web.Helpers.x
 D:\VS-Projects\SitecorePlay\Foundation\MultiTenant\code\bin\System.Web.Mvc.xml
 D:\VS-Projects\SitecorePlay\Foundation\MultiTenant\code\obj\Debug\ScHelix.Foundation.MultiTenant.dll
 D:\VS-Projects\SitecorePlay\Foundation\MultiTenant\code\obj\Debug\ScHelix.Foundation.MultiTenant.pdb
+D:\VS-Projects\SitecorePlay\Foundation\MultiTenant\code\obj\Debug\ScHelix.Foundation.MultiTenant.csprojResolveAssemblyReference.cache

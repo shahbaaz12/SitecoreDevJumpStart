@@ -1,0 +1,24 @@
+﻿---
+ID: "6b2da2b9-dbce-453c-8933-01b621828a6f"
+Parent: "072e6e92-0cff-47e7-8c7a-73d90ce3676f"
+Template: "072e6e92-0cff-47e7-8c7a-73d90ce3676f"
+Path: /sitecore/templates/Helix Arch/Feature/Blog/Interface Templates/_Article/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180816T132336Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6e4df7da-1f61-4519-916d-ec5c679b7493"
+      Hint: ArticleSummary
+      Value: Article Summary
+    - ID: "eb8e72f6-2fb2-46bf-97b0-327c44db709a"
+      Hint: ArticleTitle
+      Value: $name

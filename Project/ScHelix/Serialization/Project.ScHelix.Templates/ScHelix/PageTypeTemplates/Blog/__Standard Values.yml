@@ -1,0 +1,37 @@
+﻿---
+ID: "c6ee9f2f-0ef6-4cee-b450-8e8164baf0f8"
+Parent: "01c9c9b8-6575-4a2c-9260-cc9fb4a8a3d1"
+Template: "01c9c9b8-6575-4a2c-9260-cc9fb4a8a3d1"
+Path: /sitecore/templates/Helix Arch/Project/ScHelix/PageTypeTemplates/Blog/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{BF87A996-1191-4D2E-A45D-E7D04667E9A6}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{20617FDF-349C-431C-8D1D-CE09D501860C}">
+        <r
+          id="{13ED5850-6C04-4C25-9BB5-2F605552D41D}"
+          ph="main"
+          uid="{820856D3-8691-4D51-B857-DFECC923FA7C}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180816T132948Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
